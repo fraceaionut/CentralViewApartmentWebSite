@@ -23,7 +23,7 @@ a {
   color: white;
   background:
     linear-gradient(90deg, rgba(0,0,0,.78), rgba(0,0,0,.48), rgba(0,0,0,.12)),
-    url("poze/dormitor12.jpeg") center/cover;
+    url("images/dormitor12.jpeg") center/cover;
 }
 
 .nav {
